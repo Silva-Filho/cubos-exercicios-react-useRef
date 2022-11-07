@@ -1,11 +1,12 @@
 .App {
-  text-align: center;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  height: 100vh;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background-color: #ccc;
 }
 
-button + button {
-  margin-left: 1rem;
+button+button {
+    margin-left: 1rem;
 }
